@@ -1,4 +1,4 @@
-"""
+
 Question 10
 
 Level 2
@@ -18,9 +18,10 @@ and then use sorted() to sort the data.
 
 Solution:
 
-"""
 
+```python
 s = input("Enter a sequence of whitespace separated words: ")
 words = [word for word in s.split(" ")]
 print(words)
 print(" ".join(sorted(list(set(words)))))
+```
