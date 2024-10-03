@@ -27,5 +27,5 @@ for ch in s:
     else:
         pass
 
-print("LETTERS:",d["LETTERS"],"\n","DIGITS:",d["DIGITS"])
+print("LETTERS:",d["LETTERS"],"\n","DIGITS:"d["DIGITS"])
 ```
