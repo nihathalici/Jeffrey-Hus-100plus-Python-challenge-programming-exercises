@@ -1,5 +1,3 @@
-Question-15-Computing-the-value-of-a+aa+aaa+aaaa 
-
 Question 15
 
 Level 2
