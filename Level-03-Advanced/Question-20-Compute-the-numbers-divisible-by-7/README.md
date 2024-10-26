@@ -27,3 +27,13 @@ pn = PutNumbers(100)
 
 print( ", ".join(str(n) for n in pn.generate()) )
 ```
+
+Solution with a function:
+```python
+def put_numbers(n):
+    i = 0
+    while i < n:
+        if i % 7 == 0:
+            yield i
+        i += 1
+```
