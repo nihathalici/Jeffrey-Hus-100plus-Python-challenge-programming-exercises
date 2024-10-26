@@ -10,7 +10,7 @@ Hints: Consider use yield
 Visit the discussion page at GitHub:
 https://github.com/zhiwehu/Python-programming-exercises/issues/6
 
-Solution with a class:
+Solution with a **class**:
 ```python
 class PutNumbers:
     def __init__(self, n):
@@ -28,7 +28,7 @@ pn = PutNumbers(100)
 print( ", ".join(str(n) for n in pn.generate()) )
 ```
 
-Solution with a function:
+Solution with a **function**:
 ```python
 def put_numbers(n):
     i = 0
