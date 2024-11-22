@@ -12,5 +12,14 @@ Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: 
 https://peps.python.org/pep-0008/
 
 Solution:
+```python
+
+def print_val(s1, s2):
+    print(s1 + s2)
+
+# Prints out: 34
+print_val("3", "4")
+
+```
 
 
