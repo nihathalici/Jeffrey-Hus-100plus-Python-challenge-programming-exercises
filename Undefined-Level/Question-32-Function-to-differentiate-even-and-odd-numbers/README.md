@@ -11,5 +11,11 @@ https://peps.python.org/pep-0008/
 
 Solution:
 ```python
-
+def check_value(n):
+    if n % 2 == 0:
+        print("It is an even number")
+    else:
+        print("It is an odd number")
+        
+check_value(7)
 ```
