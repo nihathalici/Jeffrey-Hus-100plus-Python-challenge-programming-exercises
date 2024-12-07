@@ -23,3 +23,15 @@ def print_sqrs():
 
 print_sqrs()
 ```
+
+"""
+Alternative Solution:
+"""
+def print_sqrs():
+    """
+    Returns a dictionary containing the squares of the numbers 1 to 3.
+    """
+    sqrs = {i: i**2 for i in range(1, 4)}
+    print(sqrs)
+
+print_sqrs()
