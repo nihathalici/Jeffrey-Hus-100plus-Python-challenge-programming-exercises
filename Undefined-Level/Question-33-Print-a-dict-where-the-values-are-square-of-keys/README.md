@@ -24,9 +24,9 @@ def print_sqrs():
 print_sqrs()
 ```
 
-"""
 Alternative Solution:
-"""
+
+```python
 def print_sqrs():
     """
     Returns a dictionary containing the squares of the numbers 1 to 3.
@@ -35,3 +35,4 @@ def print_sqrs():
     print(sqrs)
 
 print_sqrs()
+```
