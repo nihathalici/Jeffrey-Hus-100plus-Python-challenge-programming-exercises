@@ -10,3 +10,13 @@ Use dict[key]=value pattern to put entry into a dictionary. Use ** operator to g
 Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: print_value .
 
 https://peps.python.org/pep-0008/
+Solution:
+```python
+def print_squares():
+	d=dict()
+	for i in range(1,21):
+		d[i]=i**2
+	print(d)
+
+print_squares()
+```
