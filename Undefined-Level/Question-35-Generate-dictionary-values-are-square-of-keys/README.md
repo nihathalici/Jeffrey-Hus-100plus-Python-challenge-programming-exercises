@@ -15,12 +15,12 @@ https://peps.python.org/pep-0008/
 Solution:
 
 ```python
-def print_dict():
+def print_squares():
 	d = dict()
 	for i in range(1, 21):
 		d[i] = i ** 2
 	for (k, v) in d.items():
 		print(v)
 
-print_dict()
+print_squares()
 ```
