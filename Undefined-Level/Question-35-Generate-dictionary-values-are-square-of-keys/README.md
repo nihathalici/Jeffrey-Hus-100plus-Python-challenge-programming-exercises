@@ -24,3 +24,10 @@ def print_squares():
 
 print_squares()
 ```
+
+1. Alternative Solution:
+```python
+def print_squares():
+    for i in range(1, 21):
+        print(i ** 2)
+```
