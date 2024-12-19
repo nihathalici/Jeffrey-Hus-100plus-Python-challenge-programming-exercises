@@ -31,3 +31,10 @@ def print_squares():
     for i in range(1, 21):
         print(i ** 2)
 ```
+
+2. Alternative Solution:
+```python
+def print_squares():
+    print(*(i ** 2 for i in range(1, 21)), sep='\n')
+
+```
