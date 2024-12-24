@@ -31,3 +31,12 @@ def print_squares():
     for k in d.keys():
         print(k)
 ```
+
+2. Alternative Solution:
+
+```python
+def print_squares():
+    d = {i: i ** 2 for i in range(1, 21)}
+    print(*d.keys(), sep="\n")
+```
+
