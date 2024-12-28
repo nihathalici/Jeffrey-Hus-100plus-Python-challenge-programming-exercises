@@ -11,3 +11,15 @@ to add values into a list.
 Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: print_value .
 
 https://peps.python.org/pep-0008/
+
+Solution:
+
+```python
+def print_list():
+	li = list()
+	for i in range(1, 21):
+		li.append(i ** 2)
+	print(li)
+
+print_list()
+```
