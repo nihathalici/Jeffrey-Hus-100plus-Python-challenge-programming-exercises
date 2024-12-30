@@ -23,3 +23,14 @@ def print_list():
 
 print_list()
 ```
+
+1. Alternative Solution:
+
+```python
+
+def print_list():
+    li = []
+    for i in range(1, 21):
+        li.append(i ** 2)
+    print(li)
+```
