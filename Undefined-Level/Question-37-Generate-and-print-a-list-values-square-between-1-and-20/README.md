@@ -34,3 +34,11 @@ def print_list():
         li.append(i ** 2)
     print(li)
 ```
+
+2. Alternative Solution:
+
+```python
+def print_list():
+    li = [i ** 2 for i in range(1, 21)]
+    print(li)
+```
