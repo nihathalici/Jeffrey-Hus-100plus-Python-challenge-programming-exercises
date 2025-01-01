@@ -42,3 +42,10 @@ def print_list():
     li = [i ** 2 for i in range(1, 21)]
     print(li)
 ```
+
+3. Alternative Solution:
+
+```python
+def print_list():
+    print([i ** 2 for i in range(1, 21)])
+```
