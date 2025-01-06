@@ -23,3 +23,16 @@ def generate_squares():
 
 generate_squares()
 ```
+
+1. Alternative Solution
+
+```python
+def generate_squares():
+    squares = []
+    for i in range(1, 21):
+        square = i ** 2
+        squares.append(square)
+    print(square[:5])
+
+generate_squares()
+```
