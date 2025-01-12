@@ -24,3 +24,15 @@ def generate_squares():
 generate_squares() 
 ```
 
+
+1. Alternative Solution:
+```python
+def generate_squares():
+    squares_list = []
+    for num in range(1, 21):
+        square = num ** 2
+        squares_list.append(square)
+    print(squares_list[-5:])
+    
+generate_squares()
+```
