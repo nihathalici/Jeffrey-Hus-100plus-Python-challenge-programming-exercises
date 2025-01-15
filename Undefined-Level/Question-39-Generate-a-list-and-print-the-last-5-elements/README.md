@@ -45,3 +45,8 @@ def generate_squares():
 
 generate_squares()
 ```
+
+3. Alternative Solution:
+```python
+print([num ** 2 for num in range(1, 21)][-5:])
+```
