@@ -14,5 +14,11 @@ https://peps.python.org/pep-0008/
 Solution:
 
 ```python
+def generate_and_print_squares():
+    li = list()
+    for i in range(1, 21):
+        li.append(i ** 2)
+    print(li[5:])
 
+generate_and_print_squares()
 ```
