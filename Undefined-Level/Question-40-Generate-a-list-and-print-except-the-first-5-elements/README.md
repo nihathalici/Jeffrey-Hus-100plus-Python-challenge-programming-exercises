@@ -10,3 +10,9 @@ Use ** operator to get power of a number. Use range() for loops. Use list.append
 Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: print_value .
 
 https://peps.python.org/pep-0008/
+
+Solution:
+
+```python
+
+```
