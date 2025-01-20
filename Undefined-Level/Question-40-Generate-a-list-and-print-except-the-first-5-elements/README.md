@@ -22,3 +22,16 @@ def generate_and_print_squares():
 
 generate_and_print_squares()
 ```
+
+Alternative Solution-1:
+
+```python
+def generate_and_print_squares():
+    sq_li = []
+    for i in range(1, 21):
+        sq_li.append(i ** 2)
+    for val in sq_li[5:]:
+        print(val)
+
+generate_and_print_squares()
+```
