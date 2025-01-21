@@ -35,3 +35,12 @@ def generate_and_print_squares():
 
 generate_and_print_squares()
 ```
+
+Alternative Solution-2
+```python
+def generate_and_print_squares():
+    sq_li = [i ** 2 for i in range(1, 21)]
+    print(*sq_li[5:], sep="\n")
+
+generate_and_print_squares()
+```
