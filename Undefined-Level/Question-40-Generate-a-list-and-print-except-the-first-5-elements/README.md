@@ -44,3 +44,12 @@ def generate_and_print_squares():
 
 generate_and_print_squares()
 ```
+
+Alternative Solution-3
+
+```python
+def generate_and_print_squares():
+    print(*[i ** 2 for i in range(6, 21)], sep="\n")
+
+generate_and_print_squares()
+```
