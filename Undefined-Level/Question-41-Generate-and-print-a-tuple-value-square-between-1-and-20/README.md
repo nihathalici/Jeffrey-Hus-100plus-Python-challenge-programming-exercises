@@ -21,3 +21,16 @@ def generate_squares_tuple():
 
 generate_squares_tuple()
 ```
+
+Alternative Solution-1
+```python
+def generate_squares_tuple():
+    squares_list = []
+    for num in range(1, 21):
+        sq = num ** 2
+        squares_list.append(sq)
+    squares_tuple = tuple(squares_list)
+    print(squares_tuple)
+
+generate_squares_tuple()
+```
