@@ -43,3 +43,12 @@ def generate_squares_tuple():
 
 generate_squares_tuple()
 ```
+
+Alternative Solution-3
+
+```python
+def generate_squares_tuple():
+    print(tuple(num ** 2 for num in range(1, 21)))
+
+generate_squares_tuple()
+```
