@@ -34,3 +34,12 @@ def generate_squares_tuple():
 
 generate_squares_tuple()
 ```
+
+Alternative Solution-2
+```python
+def generate_squares_tuple():
+    squares_tuple = tuple(num ** 2 for num in range(1, 21))
+    print(squares_tuple)
+
+generate_squares_tuple()
+```
