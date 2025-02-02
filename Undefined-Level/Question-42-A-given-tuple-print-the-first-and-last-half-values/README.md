@@ -20,3 +20,12 @@ tp2=tp[5:]
 print(tp1)
 print(tp2)
 ```
+
+Alternative Solution-1
+
+```python
+data = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+mid = len(data) // 2
+print("First half:", data[:mid])
+print("Second half:", data[mid:])
+```
