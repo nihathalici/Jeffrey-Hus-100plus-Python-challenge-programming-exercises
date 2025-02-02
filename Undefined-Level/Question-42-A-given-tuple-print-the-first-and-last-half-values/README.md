@@ -11,3 +11,12 @@ Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: 
 
 https://peps.python.org/pep-0008/
 
+Solution:
+
+```python
+tp=(1,2,3,4,5,6,7,8,9,10)
+tp1=tp[:5]
+tp2=tp[5:]
+print(tp1)
+print(tp2)
+```
