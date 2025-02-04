@@ -37,3 +37,11 @@ mid = len(data) // 2
 print("First half:", *data[:mid])
 print("Second half:", *data[mid:])
 ```
+
+Alternative Solution-3
+```python
+data = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+mid = len(data) // 2
+print(*data[:mid])
+print(*data[mid:])
+```
