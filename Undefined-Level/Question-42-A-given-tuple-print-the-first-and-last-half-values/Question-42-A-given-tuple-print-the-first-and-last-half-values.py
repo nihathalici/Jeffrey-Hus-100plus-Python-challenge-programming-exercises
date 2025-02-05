@@ -8,10 +8,6 @@ Hints:
 
 Use [n1:n2] notation to get a slice from a tuple.
 
-Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: print_value .
-
-https://peps.python.org/pep-0008/
-
 Solution:
 """
 
