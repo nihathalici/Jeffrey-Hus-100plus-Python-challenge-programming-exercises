@@ -24,3 +24,10 @@ original_tuple = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 even_tuple = tuple(x for x in original_tuple if x % 2 == 0)
 print(even_tuple)
 ```
+
+Alternative Solution-2
+```python
+original_tuple = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+print(tuple(x for x in original_tuple if x % 2 == 0))
+```
+
