@@ -16,3 +16,16 @@ if s == "yes" or s == "YES" or s == "Yes":
 else:
     print("No")
 ```
+
+Alternative Solution-1
+
+```python
+def check_yes(inp_str):
+    if inp_str in ["yes", "YES", "Yes"]:
+        print("Yes")
+    else:
+        print("No")
+
+user_inp = input("Enter a string: ")
+check_yes(user_inp)
+```
