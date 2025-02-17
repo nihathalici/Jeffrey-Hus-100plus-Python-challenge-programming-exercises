@@ -29,3 +29,10 @@ def check_yes(inp_str):
 user_inp = input("Enter a string: ")
 check_yes(user_inp)
 ```
+
+Alternative Solution-2
+
+```python
+user_inp = input("Enter a string: ")
+print("Yes" if user_inp in ["yes", "YES", "Yes"] else "No")
+```
