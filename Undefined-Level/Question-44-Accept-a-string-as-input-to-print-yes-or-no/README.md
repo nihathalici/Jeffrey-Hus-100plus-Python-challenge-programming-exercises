@@ -36,3 +36,8 @@ Alternative Solution-2
 user_inp = input("Enter a string: ")
 print("Yes" if user_inp in ["yes", "YES", "Yes"] else "No")
 ```
+
+Alternative Solution-3
+```python
+print("Yes" if input("Enter a string: ").lower() == "yes" else "No")
+```
