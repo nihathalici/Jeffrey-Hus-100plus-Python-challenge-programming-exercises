@@ -7,3 +7,10 @@ Hints:
 
 Use filter() to filter some elements in a list. Use lambda to define anonymous functions.
 
+Solution:
+
+```python
+li = [1,2,3,4,5,6,7,8,9,10]
+even_numbers = filter(lambda x: x % 2 == 0, li)
+print(*even_numbers, sep=", ")
+```
