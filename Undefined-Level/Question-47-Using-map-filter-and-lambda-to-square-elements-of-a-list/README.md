@@ -22,3 +22,10 @@ sq_even_num = map(lambda x: x ** 2, even_num)
 result = list(sq_even_num)
 print(result)
 ```
+
+Alternative Solution-2
+
+```python
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+result = list(map(lambda x: x ** 2, filter(lambda x: x % 2 == 0, num)))
+```
