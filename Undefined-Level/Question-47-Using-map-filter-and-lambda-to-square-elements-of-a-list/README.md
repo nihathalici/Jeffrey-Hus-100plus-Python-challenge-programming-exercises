@@ -29,3 +29,9 @@ Alternative Solution-2
 num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 result = list(map(lambda x: x ** 2, filter(lambda x: x % 2 == 0, num)))
 ```
+
+Alternative Solution-3
+```python
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+result = [x ** 2 for x in num if x % 2 == 0]
+```
