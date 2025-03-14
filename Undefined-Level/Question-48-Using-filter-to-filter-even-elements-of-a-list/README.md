@@ -14,3 +14,11 @@ even_numbers = filter(lambda x: x % 2 == 0, range(1, 21))
 
 print(*even_numbers, sep = ", ")
 ```
+
+Alternative Solution-1
+
+```python
+num = range(1, 21)
+even_num = list(filter(lambda x: x % 2 == 0, num))
+print(even_num)
+```
