@@ -11,3 +11,9 @@ Solution:
 sq_num = map(lambda x: x ** 2, range(1, 21))
 print(*sq_num, sep = ", ")
 ```
+
+Alternative Solution-1
+```python
+sq_num = list(map(lambda x: x ** 2, range(1, 21)))
+print(sq_num)
+```
