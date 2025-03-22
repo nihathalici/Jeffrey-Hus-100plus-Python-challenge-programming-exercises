@@ -17,3 +17,9 @@ Alternative Solution-1
 sq_num = list(map(lambda x: x ** 2, range(1, 21)))
 print(sq_num)
 ```
+
+Alternative Solution-2
+```python
+squares = [x**2 for x in range(1, 21)]
+print(squares)
+```
