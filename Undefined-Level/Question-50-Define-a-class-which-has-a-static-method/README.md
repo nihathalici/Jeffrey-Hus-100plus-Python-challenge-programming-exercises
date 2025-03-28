@@ -29,3 +29,14 @@ class American:
 American.print_nationality()
 ```
 
+Alternative Solution-2
+
+```python
+def  print_nationality():
+    print("American")
+
+class American:
+    print_nationality = staticmethod(print_nationality)
+
+American.print_nationality()
+```
