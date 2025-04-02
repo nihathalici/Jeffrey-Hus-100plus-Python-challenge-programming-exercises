@@ -27,3 +27,14 @@ class NewYorker(American):
     def favorite_spot(self):
         return f"My favorite spot in New York is Central Park."
 ```
+
+Creating instances of the classes
+
+```python
+american = American(name="John")
+print(american.greet())  # Prints: Hello, I'm John, an American.
+
+new_yorker = NewYorker(name="James", borough="Harlem")
+print(new_yorker.greet())  # Prints: Hello, I'm James, a New Yorker from Harlem.
+print(new_yorker.favorite_spot())  # Prints: My favorite spot in New York is Central Park.
+```
