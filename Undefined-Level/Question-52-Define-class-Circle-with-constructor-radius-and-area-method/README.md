@@ -6,3 +6,14 @@ The Circle class has a method which can compute the area.
 Hints:
 
 Use def methodName(self) to define a method.
+
+Solution:
+
+```python
+class Circle(object):
+    def __init__(self, r):
+        self.radius = r
+
+    def area(self):
+        return self.radius**2*3.14
+```
