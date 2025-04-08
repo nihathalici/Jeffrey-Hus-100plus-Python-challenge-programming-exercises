@@ -17,3 +17,10 @@ class Circle(object):
     def area(self):
         return self.radius**2*3.14
 ```
+
+Example usage
+
+```python
+a_circle = Circle(2)
+print(a_circle.area())
+```
