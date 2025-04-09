@@ -24,3 +24,16 @@ Example usage
 a_circle = Circle(2)
 print(a_circle.area())
 ```
+
+Alternative Solution:
+
+```python
+import math
+
+class Circle:
+    def __init__(self, radius):
+        self.radius = radius
+    
+    def compute_area(self):
+        return math.pi * self.radius ** 2
+```
