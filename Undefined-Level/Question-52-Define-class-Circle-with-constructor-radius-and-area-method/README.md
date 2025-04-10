@@ -37,3 +37,11 @@ class Circle:
     def compute_area(self):
         return math.pi * self.radius ** 2
 ```
+
+Example usage
+
+```python
+a_circle = Circle(5)
+area = a_circle.compute_area()
+print(f"The area of the circle is: {area}")
+```
