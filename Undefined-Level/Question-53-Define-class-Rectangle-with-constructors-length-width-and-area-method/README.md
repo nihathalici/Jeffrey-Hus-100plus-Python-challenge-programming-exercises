@@ -10,3 +10,15 @@ Use def method_name to define a method.
 Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: print_value .
 
 https://peps.python.org/pep-0008/
+
+Solution:
+
+```python
+class Rectangle(object):
+    def __init__(self, l, w):
+        self.length = l
+        self.width = w
+    
+    def area(self):
+        return self.length * self.width
+```
