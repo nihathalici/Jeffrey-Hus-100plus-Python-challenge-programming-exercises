@@ -22,3 +22,11 @@ class Rectangle(object):
     def area(self):
         return self.length * self.width
 ```
+
+
+Example usage
+
+```python
+a_rectangle = Rectangle(2,10)
+print(a_rectangle.area())
+```
