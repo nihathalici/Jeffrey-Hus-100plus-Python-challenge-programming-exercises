@@ -63,3 +63,10 @@ class Rectangle:
     def area(self) -> float:
         return self._length * self._width
 ```
+
+Example usage
+
+```python
+a_rectangle = Rectangle(2,10)
+print(a_rectangle.area())
+```
