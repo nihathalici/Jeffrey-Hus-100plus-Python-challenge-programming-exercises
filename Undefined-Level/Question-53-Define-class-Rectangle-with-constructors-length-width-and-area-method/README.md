@@ -30,3 +30,36 @@ Example usage
 a_rectangle = Rectangle(2,10)
 print(a_rectangle.area())
 ```
+
+Alternative Solution:
+
+```python
+class Rectangle:
+    def __init__(self, l: float, w: float):
+        if l <= 0 or w <= 0:
+            raise ValueError("Length and width must be positive numbers.")
+        self._length = l
+        self._width = w
+    
+    @property
+    def length(self) -> float:
+        return self._length
+    
+    @length.setter
+    def length(self, value: float):
+        if value <= 0:
+            raise ValueError("Length must be a positive number.")
+    
+    @property
+    def width(self) -> float:
+        return self._width
+    
+    @width.setter
+    def width(self, value: float):
+        if value <= 0:
+            raise ValueError("Width must be a positive number.")
+        self._width = value
+    
+    def area(self) -> float:
+        return self._length * self._width
+```
