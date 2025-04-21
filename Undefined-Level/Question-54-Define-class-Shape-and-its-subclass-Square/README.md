@@ -11,3 +11,21 @@ Consider the PEP 8 - Style Guide. Naming a class: PrintValue . Naming a method: 
 
 https://peps.python.org/pep-0008/
 
+Solution:
+
+```python
+class Shape(object):
+    def __init__(self):
+        pass
+
+    def area(self):
+        return 0
+
+class Square(Shape):
+    def __init__(self, l):
+        Shape.__init__(self)
+        self.length = l
+    
+    def area(self):
+        return self.length * self.length
+```
