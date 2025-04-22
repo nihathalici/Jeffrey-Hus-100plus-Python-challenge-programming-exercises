@@ -29,3 +29,10 @@ class Square(Shape):
     def area(self):
         return self.length * self.length
 ```
+
+Example usage
+
+```python
+a_square= Square(3)
+print(a_square.area())
+```
