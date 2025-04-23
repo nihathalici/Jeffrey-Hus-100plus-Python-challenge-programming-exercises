@@ -52,3 +52,12 @@ class Square(Shape):
         return self.length ** 2
 ```
 
+Example usage
+
+```python
+shape = Shape()
+print("Area of generic shape:", shape.area())
+
+square = Square(4)
+print("Area of square:", square.area())
+```
