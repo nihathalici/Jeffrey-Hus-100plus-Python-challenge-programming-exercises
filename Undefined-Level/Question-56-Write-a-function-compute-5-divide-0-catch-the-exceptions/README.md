@@ -21,3 +21,16 @@ except Exception as err:
 finally:
     print('In finally block for cleanup')
 ```
+
+Alternative Solution:
+
+```python
+def divide_by_zero():
+    try:
+        result = 5 / 0
+    except ZeroDivisionError as e:
+        result = str(e)
+    return result
+
+divide_by_zero()
+```
