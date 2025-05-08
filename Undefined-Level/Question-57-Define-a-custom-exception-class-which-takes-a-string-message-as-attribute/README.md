@@ -19,3 +19,14 @@ class MyError(Exception):
     def __init__(self, msg):
         self.msg = msg
 ```
+
+Example usage:
+
+```python
+custom_err = MyError("This is a self defined Custom Exception")
+
+try:
+    raise custom_err
+except MyError as e:
+    print(f"Caught an exception: {e.msg}")
+```
