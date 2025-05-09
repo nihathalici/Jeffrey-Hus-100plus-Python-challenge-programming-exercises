@@ -30,3 +30,12 @@ try:
 except MyError as e:
     print(f"Caught an exception: {e.msg}")
 ```
+
+Alternative Solution:
+
+```python
+class CustomException(Exception):
+    def __init__(self, message):
+        self.message = message
+        super().__init__(self.message)
+```
