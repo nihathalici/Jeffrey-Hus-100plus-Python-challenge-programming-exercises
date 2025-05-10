@@ -39,3 +39,12 @@ class CustomException(Exception):
         self.message = message
         super().__init__(self.message)
 ```
+
+Example usage:
+
+```python
+try:
+    raise CustomException("This is a custom exception message.")
+except CustomException as e:
+    print(f"Caught an exception: {e.message}")
+```
