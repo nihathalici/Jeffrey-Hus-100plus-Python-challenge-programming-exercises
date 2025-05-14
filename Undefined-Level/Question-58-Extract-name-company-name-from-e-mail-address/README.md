@@ -26,3 +26,19 @@ pattern = "(\w+)@((\w+\.)+(com))"
 match = re.match(pattern, email_address) 
 print(match.group(1))
 ```
+
+Alternative Solution-1:
+
+
+```python
+import re
+
+def extract_username(email):
+    pattern = r"([a-zA-Z]+)@[a-zA-Z]+\.[a-zA-Z]+"
+    match = re.match(pattern, email)
+
+    if match:
+        return match.group(1)
+    else:
+        return "This email address is invalid."
+```
