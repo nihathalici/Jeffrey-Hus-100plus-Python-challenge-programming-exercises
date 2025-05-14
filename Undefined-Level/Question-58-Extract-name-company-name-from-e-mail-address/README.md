@@ -42,3 +42,12 @@ def extract_username(email):
     else:
         return "This email address is invalid."
 ```
+
+Example usage:
+
+```python
+email_address = input("Enter an email address: ")
+username = extract_username(email_address)
+print(username)
+```
+
