@@ -51,3 +51,13 @@ username = extract_username(email_address)
 print(username)
 ```
 
+Alternative Solution-2:
+
+```python
+def extract_username(email):
+    username = email.split('@')[0]
+    return username
+```
+
+
+
