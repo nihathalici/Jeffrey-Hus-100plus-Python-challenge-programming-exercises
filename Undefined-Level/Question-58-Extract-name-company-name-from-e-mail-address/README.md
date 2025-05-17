@@ -59,5 +59,11 @@ def extract_username(email):
     return username
 ```
 
+Example usage:
 
 
+```python
+email = input("Enter an email address: ")
+username = extract_username(email)
+print(username)
+```
