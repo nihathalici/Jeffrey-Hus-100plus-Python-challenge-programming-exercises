@@ -17,3 +17,12 @@ Hints:
 
 Use \w to match letters.
 
+Solution:
+
+```python
+import re
+email_address = input("Enter an email address: ")
+pattern = "(\w+)@(\w+)\.(com)"
+match = re.match(pattern,email_address)
+print(match.group(2))
+```
