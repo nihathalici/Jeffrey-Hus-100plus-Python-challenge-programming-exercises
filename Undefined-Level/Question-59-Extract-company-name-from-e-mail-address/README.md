@@ -21,8 +21,24 @@ Solution:
 
 ```python
 import re
+
 email_address = input("Enter an email address: ")
 pattern = "(\w+)@(\w+)\.(com)"
 match = re.match(pattern,email_address)
 print(match.group(2))
+```
+
+Alternative Solution-1:
+
+```python
+import re
+
+def extract_company_name(email):
+    pattern = r"^[a-zA-Z]+@([a-zA-Z]+)\.com$"
+    match = re.match(pattern, email)
+
+    if match:
+        return match.group(1)
+    else:
+        return "Invalid email format"
 ```
