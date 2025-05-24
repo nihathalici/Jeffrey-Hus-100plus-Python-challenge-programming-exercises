@@ -51,4 +51,22 @@ company_name = extract_company_name(email_inp)
 print(company_name)
 ```
 
+Alternative Solution-2:
+
+```python
+def extract_company_name(email):
+    parts = email.split("@")
+
+    if len(parts) != 2:
+        return "Invalid email format"
+    
+    company_domain = parts[1].split(".")
+
+    if len(company_domain) < 1:
+        return "Invalid email format"
+    
+    company_name = company_domain[0]
+
+    return company_name
+```
 
