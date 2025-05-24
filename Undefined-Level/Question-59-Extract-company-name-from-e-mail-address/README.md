@@ -42,3 +42,13 @@ def extract_company_name(email):
     else:
         return "Invalid email format"
 ```
+
+Example usage:
+
+```python
+email_inp = input("Enter an email address: ")
+company_name = extract_company_name(email_inp)
+print(company_name)
+```
+
+
