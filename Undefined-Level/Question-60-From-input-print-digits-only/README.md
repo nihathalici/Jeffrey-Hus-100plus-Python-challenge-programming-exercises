@@ -15,3 +15,10 @@ In case of input data being supplied to the question, it should be assumed to be
 Hints:
 
 Use re.findall() to find all substring using regex.
+
+```python
+import re
+
+inp_str = input("Enter a sequence of words separated by whitespace.")
+print(re.findall("\d+", inp_str))
+```
