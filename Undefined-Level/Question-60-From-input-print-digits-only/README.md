@@ -37,3 +37,18 @@ def extract_digit_words(inp_str):
     return digit_words
 ```
 
+```python
+def main():
+    while True:
+        try:
+            inp_str = input("Enter a sequence of words separated by whitespace (or 'exit' to quit): ")
+            if inp_str.lower() == 'exit':
+                break
+            result = extract_digit_words(inp_str)
+            print(result)
+        except ValueError as e:
+            print(e)
+
+if __name__ == "__main__":
+    main()
+```
