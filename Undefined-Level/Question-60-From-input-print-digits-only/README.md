@@ -52,3 +52,14 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+
+Alternative Solution-2:
+
+```python
+def extract_digit_words(inp_str):
+    words = inp_str.split()
+    digit_words = [word for word in words if word.isdigit()]
+
+    return digit_words
+```
