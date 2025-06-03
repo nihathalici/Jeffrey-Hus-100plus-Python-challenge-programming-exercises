@@ -63,3 +63,11 @@ def extract_digit_words(inp_str):
 
     return digit_words
 ```
+
+Example usage:
+
+```python
+inp_str = input("Enter a sequence of words separated by whitespace: ")
+result = extract_digit_words(inp_str)
+print(result)
+```
