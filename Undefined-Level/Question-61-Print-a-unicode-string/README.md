@@ -6,3 +6,10 @@ Hints:
 
 Use u'strings' format to define unicode string.
 
+Solution:
+
+```python
+unicode_str = u"hello world!"
+print(unicode_str)
+```
+
