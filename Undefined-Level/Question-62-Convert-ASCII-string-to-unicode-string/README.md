@@ -10,6 +10,7 @@ Solution:
 
 In Python 3, the unicode() function has been removed.
 
+```python
 s = input()
 print(s)
-
+```
