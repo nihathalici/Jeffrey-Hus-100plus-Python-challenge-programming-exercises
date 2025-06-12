@@ -14,3 +14,13 @@ In Python 3, the unicode() function has been removed.
 s = input()
 print(s)
 ```
+
+Alternative Solution:
+```python
+def ascii_to_utf8(ascii_string):
+    ascii_bytes = ascii_string.encode('ascii')
+    unicode_string = ascii_bytes.decode('utf-8')
+
+    return unicode_string
+```
+
