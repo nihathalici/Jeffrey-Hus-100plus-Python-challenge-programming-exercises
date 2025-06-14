@@ -24,3 +24,10 @@ def ascii_to_utf8(ascii_string):
     return unicode_string
 ```
 
+Example usage
+
+```python
+ascii_string = "Hello, World!"
+unicode_string = ascii_to_utf8(ascii_string)
+print(unicode_string)
+```
