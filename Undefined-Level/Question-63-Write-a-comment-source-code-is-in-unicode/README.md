@@ -8,3 +8,9 @@ Solution:
 
 #----------------------------------------#
 ```
+
+Alternative Solution:
+
+```python
+# coding: utf-8
+```
