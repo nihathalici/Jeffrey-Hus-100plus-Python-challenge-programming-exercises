@@ -25,3 +25,16 @@ for i in range(1, n+1):
 
 print(round(sum_series, 2))
 ```
+
+Alternative Solution:
+
+```python
+n = int(input("Enter a positive integer n: "))
+sum_series = 0.0
+
+for k in range(1, n+1):
+    term = k / (k + 1)
+    sum_series += term
+
+print(round(sum_series, 2))
+```
