@@ -17,3 +17,16 @@ Then, the output of the program should be:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Hints: We can define recursive function in Python.
+
+Solution:
+
+```python
+def f(n):
+    if n == 0:
+        return 0
+    else:
+        return f(n - 1) + 100
+
+n = int(input("Enter a positive integer: "))
+print(f(n))
+```
