@@ -17,3 +17,15 @@ Then, the output of the program should be:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Hints: We can define recursive function in Python.
+
+Solution:
+
+```python
+def fibo_fn(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibo_fn(n-1) + fibo_fn(n-2)
+```
