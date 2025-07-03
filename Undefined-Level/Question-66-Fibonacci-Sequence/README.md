@@ -29,3 +29,9 @@ def fibo_fn(n):
     else:
         return fibo_fn(n-1) + fibo_fn(n-2)
 ```
+
+Example usage:
+
+```python
+print(fibo_fn(7))
+```
