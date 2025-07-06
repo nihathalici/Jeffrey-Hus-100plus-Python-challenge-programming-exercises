@@ -62,3 +62,15 @@ try:
 except ValueError:
     print("Invalid input. Please enter a valid integer.")
 ```
+
+Alternative Solution-2:
+
+```python
+def fibo_fn(n):
+    if n < 0:
+        raise ValueError("Input must be a non-negative integer.")
+    a, b = 0, 1
+    for _ in range(n):
+        a, b = b, a + b
+    return a
+```
