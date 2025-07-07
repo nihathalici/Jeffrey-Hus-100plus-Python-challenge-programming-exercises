@@ -74,3 +74,17 @@ def fibo_fn(n):
         a, b = b, a + b
     return a
 ```
+
+
+Example usage:
+
+```python
+try:
+    n = int(input("Enter a non-negative integer: "))
+    if n < 0:
+        print("Please enter a non-negative integer.")
+    else:
+        print(fibo_fn(n))
+except ValueError:
+    print("Invalid input. Please enter a valid integer.")
+```
