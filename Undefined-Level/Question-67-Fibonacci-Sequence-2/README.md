@@ -17,3 +17,14 @@ Then, the output of the program should be:
 Hints: We can define recursive function in Python. Use list comprehension to generate a list from an existing list. Use string.join() to join a list of strings.
 
 In case of input data being supplied to the question, it should be assumed to be a console input.
+
+Solution:
+
+```python
+def fibo_fn(n):
+    fibo_seq = [0, 1]
+    [fibo_seq.append(fibo_seq[-1] + fibo_seq[-2]) for _ in range(2, n+1)]
+    return fibo_seq[:n+1]
+```
+
+
