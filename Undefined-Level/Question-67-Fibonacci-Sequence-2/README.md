@@ -27,4 +27,10 @@ def fibo_fn(n):
     return fibo_seq[:n+1]
 ```
 
+Example usage:
+
+```python
+n = int(input("Enter the value of n: "))
+print(",".join(map(str, fibo_fn(n))))
+```
 
