@@ -34,3 +34,29 @@ n = int(input("Enter the value of n: "))
 print(",".join(map(str, fibo_fn(n))))
 ```
 
+Alternative Solution:
+
+```python
+def fibonacci(n):
+    if n == 0:
+        return [0]
+    fib_sequence = [0, 1]
+    [fib_sequence.append(fib_sequence[-1] + fib_sequence[-2]) for _ in range(2, n+1)]
+    return fib_sequence[:n+1]
+
+def main():
+    while True:
+        try:
+            n = int(input("Enter the value of n: "))
+            if n < 0:
+                print("Please enter a non-negative integer.")
+            else:
+                print(",".join(map(str, fibonacci(n))))
+                break
+        except ValueError:
+            print("Invalid input. Please enter an integer.")
+
+if __name__ == "__main__":
+    main()
+```
+
