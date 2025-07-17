@@ -13,3 +13,12 @@ Then, the output of the program should be:
 Hints: Use yield to produce the next value in generator.
 
 In case of input data being supplied to the question, it should be assumed to be a console input.
+
+Solution:
+
+```python
+def even_nums(num):
+    for i in range(0, num + 1):
+        if i % 2 == 0:
+            yield i
+```
