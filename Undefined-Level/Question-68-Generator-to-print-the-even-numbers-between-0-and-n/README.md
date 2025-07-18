@@ -22,3 +22,16 @@ def even_nums(num):
         if i % 2 == 0:
             yield i
 ```
+
+Example Usage:
+
+```python
+def main():
+    num = int(input("Enter a number: "))
+    evens = even_nums(num)
+    output = ",".join(str(num) for num in evens)
+    print(output)
+
+main()
+```
+
