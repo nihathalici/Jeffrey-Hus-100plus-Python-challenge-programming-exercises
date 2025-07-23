@@ -23,3 +23,11 @@ def divisible_by_5_and_7(n):
         if num % 5 == 0 and num % 7 == 0:
             yield num
 ```
+
+Example Usage: 
+```python
+n = int(input("Enter a number: "))
+result = list(divisible_by_5_and_7(n))
+print(",".join(map(str, result)))
+```
+
