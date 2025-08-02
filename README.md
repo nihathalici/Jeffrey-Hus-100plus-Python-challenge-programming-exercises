@@ -19,6 +19,8 @@ List of Exercises
 | #005 [`Define-a-class-with-two-methods`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-01-Beginner/Question-5-Define-a-class-with-two-methods) | Beginner |
 | #006 [`Calculate and print the value according to the given formula`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-06-Calculate-and-print-the-value-according-to-the-given-formula) | Intermediate |
 | #007 [`Take 2-digit as input and generate a 2-dimensional-array`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-07-Take-2-digit-as-input-and-generate-a-2-dimensional-array) | Intermediate |
+| #008 [`Sorting words alphabetically`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-08-sorting-words-alphabetically) | Intermediate |
+
 
 
 
