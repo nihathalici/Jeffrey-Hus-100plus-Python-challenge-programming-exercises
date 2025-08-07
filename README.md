@@ -27,8 +27,3 @@ List of Exercises
 | #013 [`Calculate the number of letters and digits`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-13-Calculate-the-number-of-letters-and-digits) | Intermediate |
 | #014 [`Calculating upper and lower case letters`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-14-Calculating-upper-and-lower-case-letters) | Intermediate |
 
-
-
-
-
-Calculating-upper-and-lower-case-letters
