@@ -37,6 +37,7 @@ List of Exercises
 | #023 [`Calculate square value of a number`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-01-Beginner/Question-23-Calculate-square-value-of-a-number) | Beginner |
 | #024 [`Printing Python built in function documents`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-01-Beginner/Question-24-Printing-Python-built-in-function-documents) | Beginner |
 | #025 [`A class with same name class and instance parameter`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-01-Beginner/Question-25-A-class-with-same-name-class-and-instance-parameter) | Beginner |
+| #026 [`Define function compute the sum of two numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-26-Define-function-compute-the-sum-of-two-numbers) | Undefined |
 
 
 
