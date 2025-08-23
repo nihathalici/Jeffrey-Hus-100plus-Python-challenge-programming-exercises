@@ -40,6 +40,7 @@ List of Exercises
 | #026 [`Define function compute the sum of two numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-26-Define-function-compute-the-sum-of-two-numbers) | Undefined |
 | #027 [`Convert an integer into a string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-27-Convert-an-integer-into-a-string) | Undefined |
 | #028 [`There is no Question 28`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-28-There-is-no-Question-28) | Undefined |
+| #029 [`Compute sum of numbers in string form`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-29-Compute-sum-of-numbers-in-string-form) | Undefined |
 
 
 
