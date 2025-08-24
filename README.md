@@ -41,6 +41,7 @@ List of Exercises
 | #027 [`Convert an integer into a string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-27-Convert-an-integer-into-a-string) | Undefined |
 | #028 [`There is no Question 28`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-28-There-is-no-Question-28) | Undefined |
 | #029 [`Compute sum of numbers in string form`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-29-Compute-sum-of-numbers-in-string-form) | Undefined |
+| #030 [`Concatenate two strings as input`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-30-concatenate-two-strings-as-input) | Undefined |
 
 
 
