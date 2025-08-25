@@ -43,6 +43,7 @@ List of Exercises
 | #029 [`Compute sum of numbers in string form`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-29-Compute-sum-of-numbers-in-string-form) | Undefined |
 | #030 [`Concatenate two strings as input`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-30-concatenate-two-strings-as-input) | Undefined |
 | #031 [`Print the string with maximum length in console`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-31-Print-the-string-with-maximum-length-in-console) | Undefined |
+| #032 [`Function to differentiate even and odd numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-32-Function-to-differentiate-even-and-odd-numbers) | Undefined |
 
 
 
