@@ -46,7 +46,7 @@ List of Exercises
 | #032 [`Function to differentiate even and odd numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-32-Function-to-differentiate-even-and-odd-numbers) | Undefined |
 | #033 [`Print a dict where the values are square of keys`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-33-Print-a-dict-where-the-values-are-square-of-keys) | Undefined |
 | #034 [`Between 1 and 20 print a dict where the values are square of keys`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-34-Between-1-and-20-print-a-dict-where-the-values-are-square-of-keys) | Undefined |
-
+| #035 [`Generate dictionary values are square of keys`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-35-Generate-dictionary-values-are-square-of-keys) | Undefined |
 
 
 
