@@ -54,6 +54,7 @@ List of Exercises
 | #040 [`Generate a list and print except the first 5 elements`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-40-Generate-a-list-and-print-except-the-first-5-elements) | Undefined |
 | #041 [`Generate and print a tuple value square between 1 and 20`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-41-Generate-and-print-a-tuple-value-square-between-1-and-20) | Undefined |
 | #042 [`A given tuple print the first and last half values`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-42-A-given-tuple-print-the-first-and-last-half-values) | Undefined |
+| #043 [`A given tuple print the even numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-43-A-given-tuple-print-the-even-numbers) | Undefined |
 
 
 
