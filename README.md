@@ -56,6 +56,7 @@ List of Exercises
 | #042 [`A given tuple print the first and last half values`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-42-A-given-tuple-print-the-first-and-last-half-values) | Undefined |
 | #043 [`A given tuple print the even numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-43-A-given-tuple-print-the-even-numbers) | Undefined |
 | #044 [`Accept a string as input to print yes or no`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-44-Accept-a-string-as-input-to-print-yes-or-no) | Undefined |
+| #045 [`Filter even numbers in a list by using filter function`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-45-Filter-even-numbers-in-a-list-by-using-filter-function) | Undefined |
 
 
 
