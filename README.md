@@ -61,6 +61,8 @@ List of Exercises
 | #047 [`Using map filter and lambda to square elements of a list`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-47-Using-map-filter-and-lambda-to-square-elements-of-a-list) | Undefined |
 | #048 [`Using filter to filter even elements of a list`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-48-Using-filter-to-filter-even-elements-of-a-list) | Undefined |
 | #049 [`Using map and lambda to square numbers between 1 and 20`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-49-Using-map-and-lambda-to-square-numbers-between-1-and-20) | Undefined |
+| #050 [`Define a class which has a static method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-50-Define-a-class-which-has-a-static-method) | Undefined |
+
 
 
 
