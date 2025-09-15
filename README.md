@@ -63,7 +63,7 @@ List of Exercises
 | #049 [`Using map and lambda to square numbers between 1 and 20`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-49-Using-map-and-lambda-to-square-numbers-between-1-and-20) | Undefined |
 | #050 [`Define a class which has a static method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-50-Define-a-class-which-has-a-static-method) | Undefined |
 | #051 [`Define a class and its subclass`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-51-Define-a-class-and-its-subclass) | Undefined |
-| #051 [`Define class Circle with constructor radius and area method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-52-Define-class-Circle-with-constructor-radius-and-area-method) | Undefined |
+| #052 [`Define class Circle with constructor radius and area method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-52-Define-class-Circle-with-constructor-radius-and-area-method) | Undefined |
 
 
 
