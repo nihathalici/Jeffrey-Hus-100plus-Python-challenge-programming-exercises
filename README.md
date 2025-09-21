@@ -68,6 +68,7 @@ List of Exercises
 | #054 [`Define class Shape and its subclass Square`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-54-Define-class-Shape-and-its-subclass-Square) | Undefined |
 | #055 [`Raise a RuntimeError Exception`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-55-Raise-a-RuntimeError-exception) | Undefined |
 | #056 [`Write a function compute 5 divide 0 catch the exceptions`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-56-Write-a-function-compute-5-divide-0-catch-the-exceptions) | Undefined |
+| #057 [`Define a custom exception class which takes a string message as attribute`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-57-Define-a-custom-exception-class-which-takes-a-string-message-as-attribute) | Undefined |
 
 
 
