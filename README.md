@@ -73,6 +73,8 @@ List of Exercises
 | #059 [`Extract company name from e-mail address`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-59-Extract-company-name-from-e-mail-address) | Undefined |
 | #060 [`From input print digits only`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-60-From-input-print-digits-only) | Undefined |
 | #061 [`Print a unicode string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-61-Print-a-unicode-string) | Undefined |
+| #062 [`Convert ASCII string to unicode string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-62-Convert-ASCII-string-to-unicode-string) | Undefined |
+
 
 
 
