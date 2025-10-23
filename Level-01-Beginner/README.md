@@ -14,4 +14,4 @@ List of Exercises
 | #009 [`All characters in the sentence capitalized`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-09-All-characters-in-the-sentence-capitalized) | Intermediate |
 | #010 [`Removing duplicates and sorting alphanumerically`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-10-Removing-duplicates-and-sorting-alphanumerically) | Intermediate |
 | #011 [`Check numbers divisible by 5 or not`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-11-Check-numbers-divisible-by-5-or-not) | Intermediate |
-
+| #012 [`Find each digit of the number even`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-12-Find-each-digit-of-the-number-even) | Intermediate |
