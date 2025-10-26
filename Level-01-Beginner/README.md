@@ -17,4 +17,6 @@ List of Exercises
 | #012 [`Find each digit of the number even`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-12-Find-each-digit-of-the-number-even) | Intermediate |
 | #013 [`Calculate the number of letters and digits`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-13-Calculate-the-number-of-letters-and-digits) | Intermediate |
 | #014 [`Calculating upper and lower case letters`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-14-Calculating-upper-and-lower-case-letters) | Intermediate |
+| #015 [`Computing the value of a+aa+aaa+aaaa`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-15-Computing-the-value-of-a%2Baa%2Baaa%2Baaaa) | Intermediate |
+
 
