@@ -19,6 +19,7 @@ List of Exercises
 | #014 [`Calculating upper and lower case letters`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-14-Calculating-upper-and-lower-case-letters) | Intermediate |
 | #015 [`Computing the value of a+aa+aaa+aaaa`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-15-Computing-the-value-of-a%2Baa%2Baaa%2Baaaa) | Intermediate |
 | #016 [`Each odd number in a list`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-16-each-odd-number-in-a-list) | Intermediate |
+| #017 [`Computing the net amount of a bank account`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-02-Intermediate/Question-17-Computing-the-net-amount-of-a-bank-account) | Intermediate |
 
 
 
