@@ -23,6 +23,6 @@ List of Exercises
 | #018 [`Checking the validity of password input`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-03-Advanced/Question-18-Checking-the-validity-of-password-input) | Advanced |
 | #019 [`Sort tuples using multiple sorting criteria`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-03-Advanced/Question-19-Sort-tuples-using-multiple-sorting-criteria) | Advanced |
 | #020 [`Compute the numbers divisible by 7`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-03-Advanced/Question-20-Compute-the-numbers-divisible-by-7) | Advanced |
-
+| #021 [`Calculating the direction and the steps of a movement`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-03-Advanced/Question-21-Calculating-the-direction-and-the-steps-of-a-movement) | Advanced |
 
 
