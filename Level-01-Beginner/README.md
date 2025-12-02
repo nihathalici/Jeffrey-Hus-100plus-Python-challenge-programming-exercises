@@ -48,5 +48,6 @@ List of Exercises
 | #043 [`A given tuple print the even numbers`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-43-A-given-tuple-print-the-even-numbers) | Undefined |
 | #044 [`Accept a string as input to print yes or no`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-44-Accept-a-string-as-input-to-print-yes-or-no) | Undefined |
  #045 [`Filter even numbers in a list by using filter function`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-45-Filter-even-numbers-in-a-list-by-using-filter-function) | Undefined |
+| #046 [`Using map and lambda to square elements of a list`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-46-Using-map-and-lambda-to-square-elements-of-a-list) | Undefined |
 
 
