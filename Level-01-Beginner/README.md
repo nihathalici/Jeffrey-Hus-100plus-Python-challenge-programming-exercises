@@ -55,4 +55,4 @@ List of Exercises
 | #050 [`Define a class which has a static method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-50-Define-a-class-which-has-a-static-method) | Undefined |
 | #051 [`Define a class and its subclass`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-51-Define-a-class-and-its-subclass) | Undefined |
 | #052 [`Define class Circle with constructor radius and area method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-52-Define-class-Circle-with-constructor-radius-and-area-method) | Undefined |
-
+| #053 [`Define class Rectangle with constructors length width and area method`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-53-Define-class-Rectangle-with-constructors-length-width-and-area-method) | Undefined |
