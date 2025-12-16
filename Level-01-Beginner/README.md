@@ -60,5 +60,5 @@ List of Exercises
 | #055 [`Raise a RuntimeError Exception`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-55-Raise-a-RuntimeError-exception) | Undefined |
 | #056 [`Write a function compute 5 divide 0 catch the exceptions`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-56-Write-a-function-compute-5-divide-0-catch-the-exceptions) | Undefined |
 | #057 [`Define a custom exception class which takes a string message as attribute`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-57-Define-a-custom-exception-class-which-takes-a-string-message-as-attribute) | Undefined |
-
+| #058 [`Extract name company name from e-mail address`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-58-Extract-name-company-name-from-e-mail-address) | Undefined |
 
