@@ -62,4 +62,4 @@ List of Exercises
 | #057 [`Define a custom exception class which takes a string message as attribute`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-57-Define-a-custom-exception-class-which-takes-a-string-message-as-attribute) | Undefined |
 | #058 [`Extract name company name from e-mail address`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-58-Extract-name-company-name-from-e-mail-address) | Undefined |
 | #059 [`Extract company name from e-mail address`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-59-Extract-company-name-from-e-mail-address) | Undefined |
-
+| #060 [`From input print digits only`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-60-From-input-print-digits-only) | Undefined |
