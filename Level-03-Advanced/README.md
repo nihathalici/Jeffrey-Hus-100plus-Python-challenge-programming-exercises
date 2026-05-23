@@ -75,3 +75,4 @@ List of Exercises
 | #060 [`From input print digits only`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-60-From-input-print-digits-only) | Undefined |
 | #061 [`Print a unicode string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-61-Print-a-unicode-string) | Undefined |
 | #062 [`Convert ASCII string to unicode string`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-62-Convert-ASCII-string-to-unicode-string) | Undefined |
+| #063 [`Compute n n plus 1 with a given n input by console`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-64-Compute-n-n-plus-1-with-a-given-n-input-by-console) | Undefined |
