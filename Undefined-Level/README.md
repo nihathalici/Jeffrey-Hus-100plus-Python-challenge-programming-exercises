@@ -1,19 +1,16 @@
-Question 26:
 
-Define a function which can compute the sum of two numbers.
+# Jeffrey Hu's 100+ Python challenging programming exercises
 
-Hints: Define a function with two numbers as arguments. You can compute the sum in the 
-function and return the value.
+This is my repo following the exercises from GitHub user Jeffrey Hu / zhiwehu
 
-Consider the PEP 8 - Style Guide. Naming a class: SumFunc . Naming a method: sum_func .
+GitHub
+========================================================
 
-https://peps.python.org/pep-0008/
+- https://github.com/zhiwehu
 
-Solution:
+List of Exercises
+========================================================
 
-```python
-def sum_func(num1, num2):
-	return num1 + num2
-
-print(sum_func(2,2))
-```
+| Exercise | Chapter |
+| --- | --- |
+| #001 [`Divisible by 7 but are not a multiple of 5`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Level-01-Beginner/Question-1-divisible-by-7-but-are-not-a-multiple-of-5) | Beginner |
