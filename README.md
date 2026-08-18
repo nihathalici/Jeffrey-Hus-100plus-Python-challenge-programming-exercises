@@ -83,6 +83,7 @@ List of Exercises
 | #067 [`Fibonacci Sequence 2`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-67-Fibonacci-Sequence-2) | Undefined |
 | #068 [`Generator to print the even numbers between 0 and n`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-68-Generator-to-print-the-even-numbers-between-0-and-n) | Undefined |
 | #069 [`Generator to print the numbers divisible by 5 and 7 between 0 and n`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-69-Generator-to-print-the-numbers-divisible-by-5-and-7-between-0-and-n) | Undefined |
+| #070 [`Assert statements to verify that every number in the list is even`](https://github.com/nihathalici/Jeffrey-Hus-100plus-Python-challenge-programming-exercises/tree/main/Undefined-Level/Question-70-assert-statements-to-verify-that-every-number-in-the-list-is-even) | Undefined |
 
 
 
